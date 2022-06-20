@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+#landing{
+  font-family: 'Merriweather', serif;
+  background-color: rgba(53, 93, 188, 0.754);
+  width: 50%;
+  height: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:15px;
+  margin-top:5%;
+  z-index: 1;
+}
+
+#connectButton{
+  font-family: 'Merriweather', serif;
+  border-radius: 15px;
+  background-color: aquamarine;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+#logoBox{
+  z-index: 2;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -100px; 
+}
+
+#inputSection{
+  margin-top:5%;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: white;
+  height:300px;
+  
+  
+}
